@@ -192,7 +192,7 @@
 ---
 
 > [!NOTE]
-> [Default.gitignore](https://github.com/qwexpert/qwexpert/blob/main/.gitignore)
+> [Default.gitignore](https://github.com/ssh0st/ssh0st/blob/main/.gitignore)
 ---
 
 <h3 align="center">Lua libraries compiling</h3>
